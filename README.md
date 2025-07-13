@@ -1,5 +1,5 @@
 ### Note
-This repository contains part of the original code developed during research for the paper [Fine Tuned Large Langage Model in Banking](https://drive.google.com/file/d/1q1qkZpqGH9PeMqnwh8O0-U9gmCLDWU-e/view?usp=sharing)  
+This repository contains part of the original code developed during research for the paper [Fine Tuned Large Langage Model For Banking](https://drive.google.com/file/d/1q1qkZpqGH9PeMqnwh8O0-U9gmCLDWU-e/view?usp=sharing)  
 
 This code has been ported from Colab and several other sources, and may not work directly out of the box. Please download the model directly from Huggingface for inferencing, or contact the authors if you wish to recreate the training code.
 
