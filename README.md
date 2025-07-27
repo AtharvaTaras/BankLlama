@@ -3,7 +3,7 @@ This repository contains part of the original code developed during research for
 
 This code has been ported from Colab and several other sources, and may not work directly out of the box. Please download the model directly from Huggingface for inferencing, or contact the authors if you wish to recreate the training code.
 
-Credits - [Soham Nale](https://www.linkedin.com/in/soham-nale/), [Shreyash Darade](https://www.linkedin.com/in/shreyash-darade-3366b1213/), [Ashwin Choudhari](https://www.linkedin.com/in/ashwin-chaudhari-623627244/)
+Co-Authors - [Soham Nale](https://www.linkedin.com/in/soham-nale/), [Shreyash Darade](https://www.linkedin.com/in/shreyash-darade-3366b1213/), [Ashwin Choudhari](https://www.linkedin.com/in/ashwin-chaudhari-623627244/)
 
 # BankLlama
 
